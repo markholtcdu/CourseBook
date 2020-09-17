@@ -1,3 +1,3 @@
-*{word-wrap:break-all, background-colr:#4444CC}
+*{word-wrap:break-all; background-color:#4444CC}
 div {border:bold; width:30%;font-size:3em}
-.wrong {color:ff0000; background-color:#55DD55}
+.wrong {color:#ff0000; background-color:#55DD55}
